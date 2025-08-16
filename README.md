@@ -23,3 +23,10 @@ After preprocessing, I converted the text into numerical features using TF-IDF V
 The evaluation was carried out using accuracy, precision, recall, F1-score, and a confusion matrix. Logistic Regression achieved higher accuracy compared to Naive Bayes, showing that it handled the dataset better. Additionally, I extracted the most frequent words in positive and negative tweets, which gave meaningful insights into user sentiments expressed on Twitter.
 
 Through this task, I gained valuable experience in end-to-end sentiment analysis workflows — from raw tweet preprocessing to feature extraction, model training, and evaluation. I also learned how to interpret evaluation metrics and compare models in terms of performance. This project enhanced my understanding of text cleaning, TF-IDF, classification algorithms, and practical applications of NLP in real-world sentiment analysis tasks.
+
+**OUTPUT:**
+
+<img width="656" height="745" alt="Image" src="https://github.com/user-attachments/assets/62f06f0e-ea07-4221-bcf2-548cea9e6b3f" />
+
+<img width="695" height="482" alt="Image" src="https://github.com/user-attachments/assets/04a90f0f-155b-4686-b631-cd0b09822919" />
+
