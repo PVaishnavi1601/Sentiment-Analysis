@@ -30,3 +30,5 @@ Through this task, I gained valuable experience in end-to-end sentiment analysis
 
 <img width="695" height="482" alt="Image" src="https://github.com/user-attachments/assets/04a90f0f-155b-4686-b631-cd0b09822919" />
 
+Top Positive Words: [('user', 1862), ('amp', 283), ('trump', 216), ('white', 153), ('libtard', 149), ('black', 146), ('like', 140), ('woman', 114), ('racist', 109), ('politics', 97), ('people', 95), ('liberal', 92), ('allahsoil', 92), ('u', 89), ('might', 77)]
+Top Negative Words: [('user', 15638), ('day', 2794), ('love', 2745), ('happy', 1679), ('u', 1578), ('amp', 1324), ('life', 1220), ('time', 1205), ('im', 1112), ('today', 1068), ('get', 949), ('like', 948), ('positive', 932), ('thankful', 925), ('father', 919)]
